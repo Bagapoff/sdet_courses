@@ -1,0 +1,15 @@
+
+7
+java:S1220""Move this file to a named package.8ã÷ Ø 2
+\
+java:S1854":Remove this useless assignment to local variable "banana".(êËğ²şÿÿÿÿ8é÷ Ø 2
+M
+java:S1481"+Remove this unused "banana" local variable.(êËğ²şÿÿÿÿ8ë÷ Ø 2
+R
+java:S2209	"5Change this instance-reference to a static reference.(ç˜¯8ÅØ¥Ø 2
+L	java:S106"+Replace this use of System.out by a logger.(ãñ •ÿÿÿÿÿ8ì÷ Ø 2
+W
+java:S2209"5Change this instance-reference to a static reference.(ãñ •ÿÿÿÿÿ8ÆØ¥Ø 2
+G	java:S106"+Replace this use of System.out by a logger.(‘Ò¾ö8”ò£Ø 2
+R
+java:S2209"5Change this instance-reference to a static reference.(‘Ò¾ö8ÆØ¥Ø 2

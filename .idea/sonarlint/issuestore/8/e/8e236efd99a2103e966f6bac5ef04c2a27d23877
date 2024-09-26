@@ -1,0 +1,6 @@
+
+7
+java:S1220""Move this file to a named package.8½ù²Ø 2
+…
+java:S1448"cclass "Fruit" has 6 methods, which is greater than the 5 authorized. Split it into smaller classes.(áîœäùÿÿÿÿ8Ãù²Ø 2
+L	java:S106"+Replace this use of System.out by a logger.(–¥ìˆþÿÿÿÿ8Æù²Ø 2

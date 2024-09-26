@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô¢¦Şıÿÿÿÿ8¤µ„¥ 2
+R
+java:S1854"5Remove this useless assignment to local variable "b".( ½Ãª8¨ëï¤ 2
+C
+java:S1481"&Remove this unused "b" local variable.( ½Ãª8¨ëï¤ 2
+?
+java:S1118"Hide this public constructor.(£…‘Òûÿÿÿÿ8©ëï¤ 2
+G	java:S106"+Replace this use of System.out by a logger.(™ˆıõ8©ëï¤ 2
+G	java:S106"+Replace this use of System.out by a logger.(î¹€Û8©ëï¤ 2
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ñÙÎ8¦¦ı¤ 2
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(÷ñÙÎ8ª¦ı¤ 2
+L	java:S106"+Replace this use of System.out by a logger.(ï§ıÿÿÿÿ8ªëï¤ 2
